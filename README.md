@@ -3,6 +3,13 @@ MERN Stack CRUD
 
 A CRUD (create, read, update, delete) application built using the MERN stack (MongoDB, Express, React, and Node.js).
 
+Prerequisites
+------------
+
+Before getting started with this tutorial, you must be aware of the fundamentals of React.js and HTML, CSS, JavaScript, TypeScript, or ES6. Check out React’s official website to know more about its features, central concepts, and API reference [here](https://reactjs.org/docs/react-api.html).
+
+In order to use this repo, you must have Node.js & Mongo installed on your system.
+
 Installation
 ------------
 
@@ -12,7 +19,7 @@ To install the MERN Stack CRUD project, follow these steps:
 
     ``git clone https://github.com/muzammilriaz940/mern-stack-crud.git``
 
-2. Please follow the steps in [client](https://github.com/muzammilriaz940/mern-stack-crud/tree/main/client) & [server](https://github.com/muzammilriaz940/mern-stack-crud/tree/main/server) folders respectively
+2. Please follow the steps in [client](https://github.com/muzammilriaz940/mern-stack-crud/tree/main/client) & [server](https://github.com/muzammilriaz940/mern-stack-crud/tree/main/server) folders respectively.
     
 
 Usage
