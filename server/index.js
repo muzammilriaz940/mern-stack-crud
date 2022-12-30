@@ -3,7 +3,7 @@ let mongoose = require('mongoose');
 let cors = require('cors');
 let bodyParser = require('body-parser');
 // Express Route
-const studentRoute = require('../backend/routes/student.route')
+const studentRoute = require('../server/routes/student.route')
 // Connecting mongoDB Database
 mongoose
   .connect('mongodb://127.0.0.1:27017/mern_stack_crud')
