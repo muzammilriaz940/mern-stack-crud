@@ -10,17 +10,9 @@ To install the MERN Stack CRUD project, follow these steps:
 
 1.  Clone the repository:
 
-    git clone https://github.com/muzammilriaz940/mern-stack-crud.git
-    
+    ``git clone https://github.com/muzammilriaz940/mern-stack-crud.git``
 
-1.  Install the dependencies:
-
-    npm install
-    
-
-1.  Start the development server:
-
-    npm run dev
+2. Please follow the steps in clinet & server folders respectively
     
 
 Usage
