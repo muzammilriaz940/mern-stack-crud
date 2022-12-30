@@ -12,7 +12,7 @@ To install the MERN Stack CRUD project, follow these steps:
 
     ``git clone https://github.com/muzammilriaz940/mern-stack-crud.git``
 
-2. Please follow the steps in clinet & server folders respectively
+2. Please follow the steps in client(https://github.com/muzammilriaz940/mern-stack-crud/tree/main/client) & server(https://github.com/muzammilriaz940/mern-stack-crud/tree/main/server) folders respectively
     
 
 Usage
